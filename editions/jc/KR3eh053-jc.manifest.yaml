@@ -1,0 +1,384 @@
+canonical_identifier: bkk:krp/KR3eh053/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3eh053/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 痢疾明辨
+  identifiers:
+    krp: KR3eh053
+  tags:
+    kr-categories: KR3eh
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eh053.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3eh053_000-jc.yaml, hash: 'sha256:367f791961e93aacc1f5e066f699642153ff606642883e2dfb9b61ce8167a599'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3eh053_000-jc.markers.yaml, hash: 'sha256:f931357d1ba90aaf2c97d06ff3f5178e9c50badf38f0f6694ec34e35352fac46'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eh053_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 289
+  label: 陳序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh053_jc_000-d3.h1s1
+    span:
+    - front
+    - 289
+    - 605
+  label: 自序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh053_jc_000-d33.h1s1
+    span:
+    - front
+    - 605
+    - 892
+  label: 吳序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh053_jc_000-d4.h1s1
+    span:
+    - body
+    - 0
+    - 486
+  label: 辨痢疾之源
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh053_jc_000-d5.h1s1
+    span:
+    - body
+    - 486
+    - 761
+  label: 箝六經表裡陰陽虛實寒熱乃治痢要訣
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh053_jc_000-d6.h1s1
+    span:
+    - body
+    - 761
+    - 9555
+  label: 辨痢大綱有四
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh053_jc_000-d6d4
+    span:
+    - body
+    - 775
+    - 5440
+  label: 一曰邪熱
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh053_jc_000-d6d5
+    span:
+    - body
+    - 5440
+    - 6514
+  label: 一曰秋燥
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh053_jc_000-d6d6
+    span:
+    - body
+    - 6514
+    - 7795
+  label: 一曰時毒
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh053_jc_000-d6d7
+    span:
+    - body
+    - 7795
+    - 9555
+  label: 一曰滑脫
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh053_jc_000-d7.h1s1
+    span:
+    - body
+    - 9555
+    - 9650
+  label: 痢因暑濕熱三氣
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh053_jc_000-d8.h1s1
+    span:
+    - body
+    - 9650
+    - 9869
+  label: 痢不獨濕熱
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh053_jc_000-d9.h1s1
+    span:
+    - body
+    - 9869
+    - 10008
+  label: 辨治痢與治瀉不同
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh053_jc_000-d10.h1s1
+    span:
+    - body
+    - 10008
+    - 10147
+  label: 辨痢屬大小腸之病
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh053_jc_000-d11.h1s1
+    span:
+    - body
+    - 10147
+    - 10257
+  label: 辨痢屬脾胃濕熱當分陰陽虛實
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh053_jc_000-d12.h1s1
+    span:
+    - body
+    - 10257
+    - 10670
+  label: 辨痢疾有燥矢凍膩旁流
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh053_jc_000-d13.h1s1
+    span:
+    - body
+    - 10670
+    - 10922
+  label: 辨痢因邪滯廣腸藥難立到致後重窘迫
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh053_jc_000-d14.h1s1
+    span:
+    - body
+    - 10922
+    - 11199
+  label: 辨腹痛有火有滯有肝邪橫逆有傷臟陰之不同
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh053_jc_000-d15.h1s1
+    span:
+    - body
+    - 11199
+    - 11275
+  label: 辨痢不腹痛
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh053_jc_000-d16.h1s1
+    span:
+    - body
+    - 11275
+    - 11360
+  label: 治痢七日以內用藥宜峻不可因循誤事
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh053_jc_000-d17.h1s1
+    span:
+    - body
+    - 11360
+    - 11451
+  label: 治痢又不宜鹵莽峻攻致傷
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh053_jc_000-d18.h1s1
+    span:
+    - body
+    - 11451
+    - 11673
+  label: 辨治痢用補中益氣之謬
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh053_jc_000-d19.h1s1
+    span:
+    - body
+    - 11673
+    - 11899
+  label: 辨治痢用二術之謬
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh053_jc_000-d20.h1s1
+    span:
+    - body
+    - 11899
+    - 12345
+  label: 血痢
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh053_jc_000-d21.h1s1
+    span:
+    - body
+    - 12345
+    - 12873
+  label: 下痢血水
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh053_jc_000-d22.h1s1
+    span:
+    - body
+    - 12873
+    - 13188
+  label: 下痢如屋漏水
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh053_jc_000-d23.h1s1
+    span:
+    - body
+    - 13188
+    - 13458
+  label: 下痢五色及凍如魚腦
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh053_jc_000-d24.h1s1
+    span:
+    - body
+    - 13458
+    - 13584
+  label: 痢疾發癍疹
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh053_jc_000-d25.h1s1
+    span:
+    - body
+    - 13584
+    - 14572
+  label: 久痢傷陰
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh053_jc_000-d26.h1s1
+    span:
+    - body
+    - 14572
+    - 14980
+  label: 痢疾呃逆
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh053_jc_000-d27.h1s1
+    span:
+    - body
+    - 14980
+    - 15285
+  label: 噤口痢
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh053_jc_000-d28.h1s1
+    span:
+    - body
+    - 15285
+    - 15527
+  label: 胎前痢
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh053_jc_000-d29.h1s1
+    span:
+    - body
+    - 15527
+    - 17091
+  label: 產後痢
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh053_jc_000-d30.h1s1
+    span:
+    - body
+    - 17091
+    - 17343
+  label: 休息痢
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh053_jc_000-d31.h1s1
+    span:
+    - body
+    - 17343
+    - 17940
+  label: 老人虛人患痢
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh053_jc_000-d32.h1s1
+    span:
+    - body
+    - 17940
+    - 18358
+  label: 小兒痢
+  type: section
+  level: 1
+hash: sha256:1a35ad0f1e9cb6003faeb94280b31bd467c3f77bf68ec84b5d4cdf1d7ead7325
