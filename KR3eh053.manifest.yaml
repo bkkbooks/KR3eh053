@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3eh053_000.yaml, hash: 'sha256:5c6225092a5a5df6eb5c487bb30f027f3c33c4735eea5c352fc15b3ce8f321b8'}
+  - {seq: 0, filename: KR3eh053_000.yaml, hash: 'sha256:367f791961e93aacc1f5e066f699642153ff606642883e2dfb9b61ce8167a599'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eh053_000.markers.yaml, hash: 'sha256:3061e648c790e326c18869a9c3065ad7ccedee4edd1083e9e209363bcbf07807'}
+  - {seq: 0, role: markers, filename: assets/KR3eh053_000.markers.yaml, hash: 'sha256:587ea6e328bbb0d8951a6d91935d6def0ce1b2918cd43e3ae0ac3e04a3c0116a'}
 table_of_contents:
 - ref:
     seq: 0
@@ -381,7 +381,4 @@ table_of_contents:
   label: 小兒痢
   type: section
   level: 1
-hash: sha256:f9d57ddf776538d7bbddab1584d9fe66f39037c8104b115887ff90fda3dd9255
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:3b21c0bcacba3db12ebbda441b582a34ce55ff22a03331cb0873044990a326c4
