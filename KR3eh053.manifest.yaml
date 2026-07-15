@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3eh053/v1
 canonical_location: https://kanripo.org/bkk/KR3eh053/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 痢疾明辨
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3eh053_000.yaml, hash: 'sha256:367f791961e93aacc1f5e066f699642153ff606642883e2dfb9b61ce8167a599'}
+  - {seq: 0, filename: KR3eh053_000.yaml, hash: 'sha256:99ab759ab8cee3419d8c13b15cfbc82c5322e9b1e9bf5fff5a3d546f216422ea'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eh053_000.markers.yaml, hash: 'sha256:587ea6e328bbb0d8951a6d91935d6def0ce1b2918cd43e3ae0ac3e04a3c0116a'}
+  - {seq: 0, role: markers, filename: assets/KR3eh053_000.markers.yaml, hash: 'sha256:c22209122eae21f3a8acb88f2b58fa03a48b71b4bc40583c1ecc41f91173d17c'}
 table_of_contents:
 - ref:
     seq: 0
@@ -381,4 +381,7 @@ table_of_contents:
   label: 小兒痢
   type: section
   level: 1
-hash: sha256:3b21c0bcacba3db12ebbda441b582a34ce55ff22a03331cb0873044990a326c4
+hash: sha256:8192cb7c56456e824281d01d7ae40f816fabe97b803d522fcc6e0b88588cb064
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
